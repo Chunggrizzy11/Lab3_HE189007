@@ -1,0 +1,14 @@
+
+body {
+  background-color: #fcfcfc;
+  font-family: Arial, sans-serif;
+  color: #9d0e0e;
+}
+
+header {
+  background-color: #74ace4;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
